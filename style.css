@@ -60,6 +60,14 @@ nav {
   margin: var(--spacing-1);
 }
 
+.about-me-text {
+  color: pink;
+}
+
+.about-me-text:hover{
+  color: purple;
+}
+
 .portrait {
   width: 300px;
   height: 300px;
